@@ -16,8 +16,8 @@ Hosted Version on Herouku:<br>
 * streamlit
 * matplotlib
 * seaborn
-* urlextract
-* wordcloud
+* URLExtract
+* WordCloud
 * pandas
 * emoji
 * nltk

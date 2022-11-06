@@ -11,3 +11,13 @@ The web app will now be hosted on your localhost.
 (OR)<br>
 Hosted Version on Herouku:<br>
 #### Live Link: https://chatdat-bala.herokuapp.com/
+
+## Requirements: (Python Libraries)
+* streamlit
+* matplotlib
+* seaborn
+* urlextract
+* wordcloud
+* pandas
+* emoji
+* nltk
